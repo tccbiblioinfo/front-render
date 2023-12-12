@@ -1,4 +1,4 @@
-const URL = "http://localhost:3000/veiculos/"
+const URL = "https://novo-trabaio-caraio.onrender.com/veiculos/"
 var listaVeiculos = []
 
 function iniciarTabela(){
