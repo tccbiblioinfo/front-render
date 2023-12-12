@@ -16,8 +16,8 @@ function criarLinhaVeiculos(veiculo){
                 <p class="item">`+veiculo.id+`</p>
                 <p class="item">`+veiculo.modelo+`</p>
                 <p class="item">`+veiculo.ano+`</p>
-                <p class="item"><img class="icone lapis" src="../img/lapis.jpg" alt="icone lápis"></p>
-                <p class="item"><img class="icone lixeira" src="../img/lixeira.png" alt="icone lixeira"></p>
+                <p class="item"><img class="icone lapis" src="img/edit.png" alt="icone lápis"></p>
+                <p class="item"><img class="icone lixeira" src="img/delete.png" alt="icone lixeira"></p>
             </div>`;
 }
 
